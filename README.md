@@ -1,4 +1,4 @@
-![MasterHead](https://cloudinary-res.cloudinary.com/image/upload/c_fill,w_770/dpr_auto,f_auto,fl_lossy,q_auto/Animations_with_HTML5_2000x1100_v2.gif)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/be832922391491.58c25558f0fe7.gif)
 
 <h1 align="center">Hi 👋, I'm Ritesh Jha</h1>
 <h3 align="center">Aspiring Java Backend Developer.</h3>
