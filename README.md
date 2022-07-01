@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ritesh Jha</h1>
 <h3 align="center">Aspiring Java Backend Developer.</h3>
+<img
+  src="https://th.bing.com/th/id/OIP.Pd0gNuIqeXYr3XSOtQG4oQHaEc?pid=ImgDet&rs=1"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 
 - 👨‍💻 All of my projects are available at [https://riteshkumarjha.dev.voyage/](https://riteshkumarjha.dev.voyage/)
