@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritesh Jha</h1>
 <h3 align="center">Aspiring Java Backend Developer.</h3>
-<img
-  src="https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/1473740/1160/772/m1/fpnw/wm0/programming.-flat-line-color-hero-images-and-hero-banners-design-concept.-copy-.jpg?1469177112&s=316c683bcf2445400b76d204eca6f124"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block;  max-width: 700px">
+<img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 
 - 👨‍💻 All of my projects are available at [https://riteshkumarjha.dev.voyage/](https://riteshkumarjha.dev.voyage/)
