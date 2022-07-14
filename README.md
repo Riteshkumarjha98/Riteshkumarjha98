@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **youtube.com**
 
-- 👨‍💻 All of my projects are available at [https://riteshkumarjha.dev.voyage/](https://riteshkumarjha.dev.voyage/)
+- 👨‍💻 All of my projects are available at [https://riteshjhaportfolio.netlify.app/](https://riteshjhaportfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://draft.blogger.com/profile/17456034751000672004](https://draft.blogger.com/profile/17456034751000672004)
 
