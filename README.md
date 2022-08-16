@@ -1,7 +1,9 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/be832922391491.58c25558f0fe7.gif)
 
 <h1 align="center">Hi 👋, I'm Ritesh Jha</h1>
-<h3 align="center">Aspiring Java Backend Developer.</h3>
+<!-- <h3 align="center">Aspiring Java Backend Developer.</h3> -->
+<h3>I am an aspiring Java Backend Web Developer with an enthusiastic learner who loves solving problems whether simple implementation problems or complex problems. I have strong technical skills and good leadership skills as well.</h3>
+
 <img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshkumarjha98&label=Profile%20views&color=0e75b6&style=flat" alt="riteshkumarjha98" /> </p>
