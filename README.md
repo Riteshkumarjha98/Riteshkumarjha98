@@ -12,9 +12,7 @@
 
 - 👯 I’m looking to collaborate on **youtube.com**
 
-- 👨‍💻 All of my projects are available at [https://riteshjhaportfolio.netlify.app/](https://riteshkumarjha.netlify.app/)
-
-- 📝 I regularly write articles on [https://draft.blogger.com/profile/17456034751000672004](https://draft.blogger.com/profile/17456034751000672004)
+- 👨‍💻 All of my projects are available at [https://riteshjhaportfolio.netlify.app/](https://riteshjha.netlify.app/)
 
 - 💬 Ask me about **Stock Market And Any Tech Related Stuff.**
 
