@@ -72,15 +72,16 @@
 <br>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=riteshkumarjha98&theme=highcontrast&show_icons=true&count_private=true" align="center" /></div> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitkumar6324&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="riteshkumarjha98" /></p>
 <br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riteshkumarjha98&show_icons=true&locale=en&theme=tokyonight" alt="riteshkumarjha98" /></p>
 <br>
-<div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riteshkumarjha98&&theme=tokyonight" alt="riteshkumarjha98" /></p>
+<br>
 <img src="https://activity-graph.herokuapp.com/graph?username=riteshkumarjha98&theme=xcode">
-</div>
 </br>
-<br>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riteshkumarjha98&show_icons=true&locale=en" alt="riteshkumarjha98" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riteshkumarjha98&" alt="riteshkumarjha98" /></p>
+
+
+
