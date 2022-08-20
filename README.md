@@ -1,6 +1,11 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/be832922391491.58c25558f0fe7.gif)
 
-<h1 align="center">Hi 👋, I'm Ritesh Jha</h1>
+<!-- <h1 align="center">Hi 👋, I'm Ritesh Jha</h1> -->
+<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Ritesh+Kumar+Jha!;Learning+Web+Development...;" style="max-width: 100%;">
+ 
+ <br>
+ 
 <!-- <h3 align="center">Aspiring Java Backend Developer.</h3> -->
 <h3>I am an aspiring Java Backend Web Developer with an enthusiastic learner who loves solving problems whether simple implementation problems or complex problems. I have strong technical skills and good leadership skills as well.</h3>
 
@@ -60,8 +65,19 @@
    
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riteshkumarjha98&show_icons=true&locale=en&layout=compact" alt="riteshkumarjha98" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riteshkumarjha98&show_icons=true&locale=en&layout=compact" alt="riteshkumarjha98" /></p> -->
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riteshkumarjha98&show_icons=true&locale=en" alt="riteshkumarjha98" /></p>
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=riteshkumarjha98&theme=highcontrast&show_icons=true&count_private=true" align="center" /></div> 
+<br>
+<br>
+<div>
+<img src="https://activity-graph.herokuapp.com/graph?username=riteshkumarjha98&theme=xcode">
+</div>
+</br>
+<br>
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riteshkumarjha98&show_icons=true&locale=en" alt="riteshkumarjha98" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riteshkumarjha98&" alt="riteshkumarjha98" /></p>
