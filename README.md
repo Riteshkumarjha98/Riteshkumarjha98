@@ -7,7 +7,7 @@
  <br>
  
 <!-- <h3 align="center">Aspiring Java Backend Developer.</h3> -->
-<h3>A passionate Backend developer with an enthusiastic learner who loves solving problems whether simple implementation problems or complex problems. I have strong technical skills and good leadership skills as well.</h3>
+<h3 align="left"> A passionate Backend developer with an enthusiastic learner who has always been fascinated with how complex real-world problems can be solved by writing a few lines of code. I have always loved solving problems whether simple implementation problems or complex problems. I have strong technical skills and good leadership skills as well.</h3>
 
 <img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
