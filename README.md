@@ -42,6 +42,9 @@
     <a title="soumritjha@gmail.com" href="mailto:soumrit@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="soumrit@gmail.com" />
     </a>
+    <a href="https://twitter.com/Mr_Ritesh_jha">
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/Mr_Ritesh_jha" />
+    </a>
 </p>
 <br>
 <br>
